@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="churches">Churches</string>
+    <string name="museus">Museus</string>
+    <string name="parques">Parques</string>
+    <string name="historical">Historical</string>
+    <string name="title_location_list">Locations</string>
+    <string name="list_name_param">list_name</string>
+</resources>
