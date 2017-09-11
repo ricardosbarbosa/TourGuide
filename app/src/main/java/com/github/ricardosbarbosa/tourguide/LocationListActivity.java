@@ -39,13 +39,13 @@ public class LocationListActivity extends AppCompatActivity {
 
     private void setupRecyclerView(@NonNull RecyclerView recyclerView) {
         if (list_name_value.equals(getString(R.string.museus))) {
-            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.MUSEUS));
+            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.getInstance(this).MUSEUS));
         } else if (list_name_value.equals(getString(R.string.churches))) {
-            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.CHURCHES));
+            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.getInstance(this).CHURCHES));
         } else if (list_name_value.equals(getString(R.string.historical))) {
-            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.HISTORICALS));
+            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.getInstance(this).HISTORICALS));
         } else if (list_name_value.equals(getString(R.string.parques))) {
-            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.PARQUES));
+            recyclerView.setAdapter(new LocationRecyclerViewAdapter(Lists.getInstance(this).PARQUES));
         }
     }
 }

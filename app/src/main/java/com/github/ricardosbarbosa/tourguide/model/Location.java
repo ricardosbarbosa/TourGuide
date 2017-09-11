@@ -2,9 +2,9 @@ package com.github.ricardosbarbosa.tourguide.model;
 
 public class Location {
     public final String name;
-    public final String image;
+    public final Integer image;
 
-    public Location(String name, String image) {
+    public Location(String name, Integer image) {
         this.name = name;
         this.image = image;
     }

@@ -11,4 +11,49 @@
     <string name="historical">Historical</string>
     <string name="title_location_list">Locations</string>
     <string name="list_name_param">list_name</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+
+    <string name="museu1">Memorial João Pessoa - Jardins do Palácio da Redenção</string>
+    <string name="museu2">Arquivo dos Governadores</string>
+    <string name="museu3">Museu Cultural do Centro de São Francisco</string>
+    <string name="museu4">Museu Fotográfico Walfrêdo Rodrigues</string>
+    <string name="museu5">Museu José Lins do Rego</string>
+    <string name="museu6">Casa do Artista Popular</string>
+    <string name="museu7">Espaço Energisa</string>
+    <string name="museu8">Museu Da Terra e do Homem - UNIPÊ</string>
+    <string name="museu9">Memorial Augusto dos Anjos</string>
+    <string name="museu10">Museu e Cripta do Presidente Epitácio Pessoa - Subsolo do Palácio da Justiça</string>
+    <string name="museu11">Pinacoteca da UFPB</string>
+    <string name="museu12">Museu da Estação Ciência</string>
+    <string name="museu13">Arquivo Histórico do Estado da Paraíba</string>
+    <string name="museu14">Museu Casa José Américo de Almeida</string>
+
+
+    <string name="parque1">Parque Sólon de Lucena (Lagoa)</string>
+    <string name="parque2">Parque Arruda Câmara (Parque Zoobotânico e Orquidário)</string>
+    <string name="parque3">Jardim Botânico Benjamim Maranhão</string>
+    <string name="parque4">Parque Parahyba</string>
+    <string name="parque5">Complexo Natural da Ilha da Restinga</string>
+
+    <string name="igreja1">Igreja da Ordem Terceira de São Francisco (tombada pelo IPHAN)</string>
+    <string name="igreja2">Igreja de Santo Antônio</string>
+    <string name="igreja3">Igreja São Frei Pedro Gonçalves</string>
+    <string name="igreja4">Igreja do Carmo (tombada pelo IPHAN)</string>
+
+    <string name="historical1">Casa da Pólvora</string>
+    <string name="historical2">Casarão 34</string>
+    <string name="historical3">Casarão dos Azulejos</string>
+    <string name="historical4">Fonte do Tambiá (localizada no Parque Arruda Câmara)</string>
+    <string name="historical5">Fonte de Santo Antônio (localizada no Conjunto São Francisco)</string>
+    <string name="historical6">Fábrica de Vinho de Caju Tito Silva e Cia (tombada pelo Iphan)</string>
+    <string name="historical7">Hotel Globo (Centro Histórico)</string>
+    <string name="historical8">Palácio da Redenção</string>
+    <string name="historical9">Porto do Capim</string>
+    <string name="historical10">Palácio Episcopal (Arquidiocese da Paraíba)</string>
+    <string name="historical11">Imóveis da Praça São Pedro Gonçalves</string>
+    <string name="historical12">Coreto da Praça Venâncio Neiva</string>
+    <string name="historical13">Coreto da Praça da Independência</string>
+    <string name="historical14">Balaustrada da Praça Aristides Lobo</string>
+    <string name="historical15">Balaustrada da Avenida João da Mata</string>
 </resources>
